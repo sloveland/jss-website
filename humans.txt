@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Sam Loveland -- Designer/Developer -- @samuelloveland
+    Seth -- Graphic Artist
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Codekit, LESS Preprocessor
+    Normalize.css, jQuery, Modernizr, HTML5 Boilerplate
